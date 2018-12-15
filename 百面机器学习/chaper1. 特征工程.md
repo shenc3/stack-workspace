@@ -10,18 +10,18 @@
 2. 怎样处理类别型特征？
 	1. 直接编码：直接将离散变量编码成有序数值
 	2. one-hot：将离散变量编码成基于值的二值变量
-	3. mean-encoding：用目标值的聚合量来对离散变量进行编码，如均值，方差，中位数，etc
+	3. 二进制编码
+	4. mean-encoding：用目标值的聚合量来对离散变量进行编码，如均值，方差，中位数，etc
 
 3. 什么是组合特征？如何处理高维组合特征？
-	1. 组合特征是多个特征的线性组合或者多项式组合
+	1. 组合特征是将一阶特征组合起来，（例如：语言=xx & ）
 	2. 
-
 
 4. 怎样有效的找到组合特征？
 5. 有哪些文本表示模型？它们各有什么优缺点？
 6. 如何缓解图像分类任务中训练数据不足带来的问题？
 7. word2vec是如何工作的？它和隐狄利克雷模型有什么区别与联系？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDYyMDQxNyw1NDY4MTgwMDUsNzY0Nj
-gwMzMyXX0=
+eyJoaXN0b3J5IjpbMjAzMzIzMTQxMCwxNDQwNjIwNDE3LDU0Nj
+gxODAwNSw3NjQ2ODAzMzJdfQ==
 -->
