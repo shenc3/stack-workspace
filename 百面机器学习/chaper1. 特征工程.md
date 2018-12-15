@@ -23,11 +23,13 @@
 5. 有哪些文本表示模型？它们各有什么优缺点？
 	1. 词袋模型和n-gram
 	2. 主题模型
-	3. 词嵌入模型
+	3. 词嵌入和深度学习模型
 
 6. 如何缓解图像分类任务中训练数据不足带来的问题？
+	1. data augmentation
+
 7. word2vec是如何工作的？它和隐狄利克雷模型有什么区别与联系？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMwOTg5NTUsLTM4NDk1MjgxLDE0ND
+eyJoaXN0b3J5IjpbLTE4NTc5MTY5OTMsLTM4NDk1MjgxLDE0ND
 A2MjA0MTcsNTQ2ODE4MDA1LDc2NDY4MDMzMl19
 -->
