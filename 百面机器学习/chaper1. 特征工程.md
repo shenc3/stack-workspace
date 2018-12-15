@@ -14,7 +14,8 @@
 	3. mean-encoding：用目标值的聚合量来对离散变量进行编码，如均值，方差，中位数，etc
 
 3. 什么是组合特征？如何处理高维组合特征？
-
+	1. 组合特征是多个特征的线性组合或者多项式组合
+	2. 
 
 
 4. 怎样有效的找到组合特征？
@@ -22,5 +23,5 @@
 6. 如何缓解图像分类任务中训练数据不足带来的问题？
 7. word2vec是如何工作的？它和隐狄利克雷模型有什么区别与联系？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NjgwMzMyXX0=
+eyJoaXN0b3J5IjpbNTQ2ODE4MDA1LDc2NDY4MDMzMl19
 -->
