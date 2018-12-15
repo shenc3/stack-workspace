@@ -18,11 +18,16 @@
 	2. 高维组合特征一般来自id类特征，例如推荐系统或者广告算法中，一般采用**矩阵分解**的思想，将待估计参数的数量从$m \times n$转化为$m \times k + n \times k$
 
 4. 怎样有效的找到组合特征？
-5. 
-6. 有哪些文本表示模型？它们各有什么优缺点？
-7. 如何缓解图像分类任务中训练数据不足带来的问题？
-8. word2vec是如何工作的？它和隐狄利克雷模型有什么区别与联系？
+	1. 使用决策树寻找组合特征：每一条从根节点到叶节点的路径都可以看做是一种特征组合
+
+5. 有哪些文本表示模型？它们各有什么优缺点？
+	1. 词袋模型和n-gram
+	2. 主题模型
+	3. 词嵌入模型
+
+6. 如何缓解图像分类任务中训练数据不足带来的问题？
+7. word2vec是如何工作的？它和隐狄利克雷模型有什么区别与联系？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTc0ODcxNywtMzg0OTUyODEsMTQ0MD
-YyMDQxNyw1NDY4MTgwMDUsNzY0NjgwMzMyXX0=
+eyJoaXN0b3J5IjpbLTE3OTMwOTg5NTUsLTM4NDk1MjgxLDE0ND
+A2MjA0MTcsNTQ2ODE4MDA1LDc2NDY4MDMzMl19
 -->
