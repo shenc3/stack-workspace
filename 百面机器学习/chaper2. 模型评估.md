@@ -16,8 +16,8 @@
 
 3. 平方根误差的“意外”
 
-	1. 平方根误差的定义$RMSE = \sqrt{\frag{\sum^n_{i=1}(y_i - \hat{y}_i)^2}}$
-
+	1. 平方根误差的定义 $RMSE = \sqrt{\large\frac{\sum^n_{i=1}(y_i - \hat{y}_i)^2}{n}}$
+	2. 一般情况下，RMSE能够很好地反映回归模型预测值和实际值的偏离程度，danr
 4. 什么是ROC曲线
 5. 为什么要进行在线A/B测试
 6. 如何进行线上A/B测试
@@ -35,7 +35,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMjkxNjMsLTEyNjUyOTA4NzUsLTg3Mj
-gyOTk3Niw1NjM4MTM2NDMsNTQ4MTk3MTM0LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbLTE4MzE0NTg0MzIsLTEyNjUyOTA4NzUsLT
+g3MjgyOTk3Niw1NjM4MTM2NDMsNTQ4MTk3MTM0LDczMDk5ODEx
+Nl19
 -->
