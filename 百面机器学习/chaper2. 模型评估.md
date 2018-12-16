@@ -21,10 +21,12 @@
 	3. 处理方法：
 		* 离群点是噪声，考虑将其过滤
 		* 离群点不是噪声，那么就需要进一步加强模型的预测能力，将离群点产生的机制建模进去
-		* 可以找一个更合适的指标来评估模型。例如平均绝对百分比误差（Mean Absolute Percent Error, MAPE），定义为$MAPE=\sum_{i=1}^n$
+		* 可以找一个更合适的指标来评估模型。例如平均绝对百分比误差（Mean Absolute Percent Error, MAPE），定义为$MAPE=\sum_{i=1}^n\large|\frac{y_i - \hat{y}_i}{y_i}| \times \frac{100}{n}$
 
 
 4. 什么是ROC曲线
+
+
 5. 为什么要进行在线A/B测试
 6. 如何进行线上A/B测试
 7. 过拟合和欠拟合具体是指什么现象
@@ -41,7 +43,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDg3MDIxNSwtMTI2NTI5MDg3NSwtOD
+eyJoaXN0b3J5IjpbLTkxMzk4NzcyNCwtMTI2NTI5MDg3NSwtOD
 cyODI5OTc2LDU2MzgxMzY0Myw1NDgxOTcxMzQsNzMwOTk4MTE2
 XX0=
 -->
