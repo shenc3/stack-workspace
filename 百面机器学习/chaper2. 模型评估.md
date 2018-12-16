@@ -15,6 +15,9 @@
 
 
 3. 平方根误差的“意外”
+
+
+
 4. 什么是ROC曲线
 5. 为什么要进行在线A/B测试
 6. 如何进行线上A/B测试
@@ -23,6 +26,6 @@
 9. 如何计算AUC
 10.为什么在 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjgyOTk3Niw1NjM4MTM2NDMsNTQ4MT
-k3MTM0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTk5NzU4ODc4LC04NzI4Mjk5NzYsNTYzOD
+EzNjQzLDU0ODE5NzEzNCw3MzA5OTgxMTZdfQ==
 -->
