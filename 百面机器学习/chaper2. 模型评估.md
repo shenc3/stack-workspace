@@ -24,8 +24,9 @@
 7. 过拟合和欠拟合具体是指什么现象
 8. 如何绘制ROC曲线
 9. 如何计算AUC
-10.为什么在 
+10. 为什么在 一些场景中要使用余弦相似度而不是欧氏距离？
+11. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NzU4ODc4LC04NzI4Mjk5NzYsNTYzOD
-EzNjQzLDU0ODE5NzEzNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NDc5MTkxNzMsLTg3MjgyOTk3Niw1Nj
+M4MTM2NDMsNTQ4MTk3MTM0LDczMDk5ODExNl19
 -->
