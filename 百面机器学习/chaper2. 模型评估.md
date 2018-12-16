@@ -25,8 +25,14 @@
 8. 如何绘制ROC曲线
 9. 如何计算AUC
 10. 为什么在 一些场景中要使用余弦相似度而不是欧氏距离？
-11. 
+11. 如何划分实验组和对照组
+12. 模型评估过程中的验证方法及其优缺点
+13. 能否说出集中降低过拟合和欠拟合风险的方法？
+14. ROC曲线相比P-R曲线有什么特点？
+15. 余弦距离是否是一个严格定义的距离？
+16. 自助法采样在极限情况下会有多少数据从未被选择过？
+17. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc5MTkxNzMsLTg3MjgyOTk3Niw1Nj
+eyJoaXN0b3J5IjpbLTE4NjYyMjA1NDAsLTg3MjgyOTk3Niw1Nj
 M4MTM2NDMsNTQ4MTk3MTM0LDczMDk5ODExNl19
 -->
