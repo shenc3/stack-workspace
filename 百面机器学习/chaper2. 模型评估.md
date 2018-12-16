@@ -10,6 +10,8 @@
 	4. 线下评估和线上测试的样本分布存在差异等
 
 2. 精确率和召回率的权衡
+
+
 3. 平方根误差的“意外”
 4. 什么是ROC曲线
 5. 为什么要进行在线A/B测试
@@ -19,6 +21,6 @@
 9. 如何计算AUC
 10.为什么在 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzODEzNjQzLDU0ODE5NzEzNCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMjMyMTEwMzMsNTYzODEzNjQzLDU0OD
+E5NzEzNCw3MzA5OTgxMTZdfQ==
 -->
