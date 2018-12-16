@@ -16,7 +16,7 @@
 
 3. 平方根误差的“意外”
 
-	1. 平方根误差的定义$RMSE = \root{dfd} $
+	1. 平方根误差的定义$RMSE = \sqrt[2]{}$
 
 4. 什么是ROC曲线
 5. 为什么要进行在线A/B测试
@@ -35,7 +35,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDM3MDY2NywtMTI2NTI5MDg3NSwtOD
-cyODI5OTc2LDU2MzgxMzY0Myw1NDgxOTcxMzQsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbNDAyNTY3NTUsLTEyNjUyOTA4NzUsLTg3Mj
+gyOTk3Niw1NjM4MTM2NDMsNTQ4MTk3MTM0LDczMDk5ODExNl19
+
 -->
