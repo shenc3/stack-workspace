@@ -31,8 +31,10 @@
 14. ROC曲线相比P-R曲线有什么特点？
 15. 余弦距离是否是一个严格定义的距离？
 16. 自助法采样在极限情况下会有多少数据从未被选择过？
-17. 
+17. 超参数有哪些调优方法？
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYyMjA1NDAsLTg3MjgyOTk3Niw1Nj
+eyJoaXN0b3J5IjpbLTEyNjUyOTA4NzUsLTg3MjgyOTk3Niw1Nj
 M4MTM2NDMsNTQ4MTk3MTM0LDczMDk5ODExNl19
 -->
