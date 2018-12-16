@@ -10,7 +10,8 @@
 	4. 线下评估和线上测试的样本分布存在差异等
 
 2. 精确率和召回率的权衡
-	1. 为了综合评估一个排序模型的好坏，不仅要看topN情况下的precision@N和recall@N，还要绘制出模型的P-R曲线。整条P-R曲线是通过将阈值从gao
+	1. 为了综合评估一个排序模型的好坏，不仅要看topN情况下的precision@N和recall@N，还要绘制出模型的P-R曲线。整条P-R曲线是通过将阈值从高到低移动得到的
+	2. 多分类情况下可以使用micro average或weighted macro average指标，其实这两个指标是一致的
 
 
 3. 平方根误差的“意外”
@@ -22,6 +23,6 @@
 9. 如何计算AUC
 10.为什么在 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2Mjc4NzY5LDU2MzgxMzY0Myw1NDgxOT
-cxMzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg3MjgyOTk3Niw1NjM4MTM2NDMsNTQ4MT
+k3MTM0LDczMDk5ODExNl19
 -->
