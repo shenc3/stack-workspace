@@ -4,6 +4,8 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 1. 准确率的局限性
+	1. 评估指标选择：当
+
 
 2. 精确率和召回率的权衡
 3. 平方根误差的“意外”
@@ -15,5 +17,6 @@
 9. 如何计算AUC
 10.为什么在 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MTk3MTM0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQzNDM3MjM2LDU0ODE5NzEzNCw3MzA5OT
+gxMTZdfQ==
 -->
