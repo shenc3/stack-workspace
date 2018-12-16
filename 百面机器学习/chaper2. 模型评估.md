@@ -22,27 +22,29 @@
 		* 可以找一个更合适的指标来评估模型。例如平均绝对百分比误差（Mean Absolute Percent Error, MAPE），定义为$MAPE=\sum_{i=1}^n\large|\frac{y_i - \hat{y}_i}{y_i}| \times \frac{100}{n}$
 
 4. 什么是ROC曲线
+
+
 5. 如何绘制ROC曲线
 6. 如何计算AUC
 7. ROC曲线相比P-R曲线有什么特点？
 
 
-9. 为什么要进行在线A/B测试
-10. 如何进行线上A/B测试
-11. 过拟合和欠拟合具体是指什么现象
+8. 为什么要进行在线A/B测试
+9. 如何进行线上A/B测试
+10. 过拟合和欠拟合具体是指什么现象
 
-12. 为什么在 一些场景中要使用余弦相似度而不是欧氏距离？
-13. 如何划分实验组和对照组
-14. 模型评估过程中的验证方法及其优缺点
-15. 能否说出集中降低过拟合和欠拟合风险的方法？
+11. 为什么在 一些场景中要使用余弦相似度而不是欧氏距离？
+12. 如何划分实验组和对照组
+13. 模型评估过程中的验证方法及其优缺点
+14. 能否说出集中降低过拟合和欠拟合风险的方法？
 
-16. 余弦距离是否是一个严格定义的距离？
-17. 自助法采样在极限情况下会有多少数据从未被选择过？
-18. 超参数有哪些调优方法？
+15. 余弦距离是否是一个严格定义的距离？
+16. 自助法采样在极限情况下会有多少数据从未被选择过？
+17. 超参数有哪些调优方法？
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjc0ODM5NywtMTI2NTI5MDg3NSwtOD
-cyODI5OTc2LDU2MzgxMzY0Myw1NDgxOTcxMzQsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTU2MDY2ODc4LC03MDI3NDgzOTcsLTEyNj
+UyOTA4NzUsLTg3MjgyOTk3Niw1NjM4MTM2NDMsNTQ4MTk3MTM0
+LDczMDk5ODExNl19
 -->
