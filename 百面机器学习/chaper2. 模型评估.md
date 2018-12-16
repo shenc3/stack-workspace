@@ -20,7 +20,8 @@
 	2. 一般情况下，RMSE能够很好地反映回归模型预测值和实际值的偏离程度，但如果存在离群点（outlier）的话，RMSE指标会变得很差
 	3. 处理方法：
 		* 离群点是噪声，考虑将其过滤
-		* 离群点不是噪声，那么就xu
+		* 离群点不是噪声，那么就需要进一步加强模型的预测能力，将离群点产生的机制建模进去
+		* 可以找一个更合适的指标来评估模型。例如平均绝对百分比wu（Mean Absolute Percent Error, MAPE）
 
 
 4. 什么是ROC曲线
@@ -40,7 +41,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDcwMjQyNywtMTI2NTI5MDg3NSwtOD
+eyJoaXN0b3J5IjpbMTk1NzgxODcyMiwtMTI2NTI5MDg3NSwtOD
 cyODI5OTc2LDU2MzgxMzY0Myw1NDgxOTcxMzQsNzMwOTk4MTE2
 XX0=
 -->
