@@ -17,7 +17,8 @@
 
 7. 如何对决策树进行剪枝
 
-8. 训练误差为0的SVM
+8. 训练误差为0的SVM分类器一定存在吗
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTkyMTE4OV19
+eyJoaXN0b3J5IjpbOTUzMDAyMjAxXX0=
 -->
