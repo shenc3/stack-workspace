@@ -54,15 +54,17 @@ fpr, tpr, thresholds = roc_curve(y, scores, pos_label=2)
 10. 过拟合和欠拟合具体是指什么现象
 
 11. 为什么在 一些场景中要使用余弦相似度而不是欧氏距离？
+	* 
 12. 如何划分实验组和对照组
 13. 模型评估过程中的验证方法及其优缺点
 14. 能否说出集中降低过拟合和欠拟合风险的方法？
 
 15. 余弦距离是否是一个严格定义的距离？
+
 16. 自助法采样在极限情况下会有多少数据从未被选择过？
 17. 超参数有哪些调优方法？
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzUwNDYwOSwxNTYwNjY4NzhdfQ==
+eyJoaXN0b3J5IjpbODI1OTgzMzc3LDE1NjA2Njg3OF19
 -->
