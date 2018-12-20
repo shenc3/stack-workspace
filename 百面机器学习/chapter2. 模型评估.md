@@ -26,7 +26,11 @@
     * 其中$FPR=\frac{FP}{N}$，$TPR=\frac{TP}{P}$
 
 5. 如何绘制ROC曲线
-	* 对于一组预测值
+	* 对于一组预测值，逐渐调整阈值，从而得到一组与之对应的FPR和TPR，进而得到ROC曲线
+```python
+from sklearn.metrics
+```
+
 7. 如何计算AUC
 8. ROC曲线相比P-R曲线有什么特点？
 
@@ -46,5 +50,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODcwMjEyNiwxNTYwNjY4NzhdfQ==
+eyJoaXN0b3J5IjpbNjY2NzA5NjAwLDE1NjA2Njg3OF19
 -->
