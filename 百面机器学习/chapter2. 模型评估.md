@@ -32,8 +32,17 @@
 
 ```python
 # scikit-learn的例子
-from sklearn.metrics import 
+from sklearn.metrics import roc_curve, roc_auc_score
+
+y = np.array([1, 1, 2, 2])
+scores = np.array([0.1, 0.4, 0.35, 0.8])
+fpr, tpr, thresholds = roc_curve(y, scores, pos_label=2)
+
 ```
+
+![](https://scikit-learn.org/stable/_images/sphx_glr_plot_roc_0011.png)
+
+
 
 
 7. ROC曲线相比P-R曲线有什么特点？
@@ -54,5 +63,5 @@ from sklearn.metrics import
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM0MDAwNDQsMTU2MDY2ODc4XX0=
+eyJoaXN0b3J5IjpbMjI1MzcwMTM0LDE1NjA2Njg3OF19
 -->
