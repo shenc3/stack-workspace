@@ -4,8 +4,9 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 1. 为什么需要对数值类型的特征做归一化
-	1) 避免线性模型错误估计了值域较大的特征的权重
-	2) 通过梯度下降求解的模型通常是需要做归一化的，因为这样能提高梯度下降的速度，而对于基于树的模型并不适用，归一化并不会改变信息增益
+	1. 避免线性模型错误估计了值域较大的特征的权重
+	2. 通过梯度下降求解的模型通常是需要做归一化的，因为这样能提高梯度下降的速度，而对于基于树的模型并不适用，归一化并不会改变信息增益
+	3. L1, L2正则化对不同scale的特征效果是不一样的
 
 2. 怎样处理类别型特征？
 	1. 直接编码：直接将离散变量编码成有序数值
@@ -30,6 +31,7 @@
 
 7. word2vec是如何工作的？它和隐狄利克雷模型有什么区别与联系？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc5MTY5OTMsLTM4NDk1MjgxLDE0ND
-A2MjA0MTcsNTQ2ODE4MDA1LDc2NDY4MDMzMl19
+eyJoaXN0b3J5IjpbLTE2MjgwNzI1MCwtMTg1NzkxNjk5MywtMz
+g0OTUyODEsMTQ0MDYyMDQxNyw1NDY4MTgwMDUsNzY0NjgwMzMy
+XX0=
 -->
