@@ -22,7 +22,7 @@
 		* 可以找一个更合适的指标来评估模型。例如平均绝对百分比误差（Mean Absolute Percent Error, MAPE），定义为$MAPE=\sum_{i=1}^n\large|\frac{y_i - \hat{y}_i}{y_i}| \times \frac{100}{n}$
 
 4. 什么是ROC曲线
-  ROC曲线是“受试者工作特征曲线”，横坐标是FPR（jiayangxin）
+  ROC曲线是“受试者工作特征曲线”，横坐标是假阳性率（False Positive Rate, FPR），纵坐标是真阳性率（True Positive Rate, TPR），其中$FPR=\frac{FP}{N}$
 
 5. 如何绘制ROC曲线
 6. 如何计算AUC
@@ -44,5 +44,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk1NDcyODUsMTU2MDY2ODc4XX0=
+eyJoaXN0b3J5IjpbLTcwMTQ3MTM4NCwxNTYwNjY4NzhdfQ==
 -->
