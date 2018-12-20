@@ -46,7 +46,7 @@ fpr, tpr, thresholds = roc_curve(y, scores, pos_label=2)
 
 
 7. ROC曲线相比P-R曲线有什么特点？
-	* ROC曲线能够尽量降低不同测试集带来的干扰，更加客观地衡量模型本身的性能
+	* ROC曲线能够尽量降低不同测试集带来的干扰，更加客观地衡量模型本身的性能，特别是当数据不平衡的时候
 	* 
 
 8. 为什么要进行在线A/B测试
@@ -64,5 +64,5 @@ fpr, tpr, thresholds = roc_curve(y, scores, pos_label=2)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjMxNDI5MywxNTYwNjY4NzhdfQ==
+eyJoaXN0b3J5IjpbLTkxNTk5Mzk0MywxNTYwNjY4NzhdfQ==
 -->
