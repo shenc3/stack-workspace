@@ -62,9 +62,10 @@ fpr, tpr, thresholds = roc_curve(y, scores, pos_label=2)
 15. 余弦距离是否是一个严格定义的距离？
 
 16. 自助法采样在极限情况下会有多少数据从未被选择过？
+
 17. 超参数有哪些调优方法？
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1OTgzMzc3LDE1NjA2Njg3OF19
+eyJoaXN0b3J5IjpbODM5MzQ3MzYzLDE1NjA2Njg3OF19
 -->
