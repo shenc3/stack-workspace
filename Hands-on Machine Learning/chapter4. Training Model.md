@@ -3,15 +3,23 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-## 线性回归
+## 1. 线性回归
 
-## 梯度下降
 
-## 多项式回归
+## 2. 梯度下降
 
-## 学习曲线
 
-## 
+## 3. 多项式回归
+
+
+## 4. 学习曲线
+
+
+## 5. 正则化线性模型
+
+
+## 6. 逻辑回归
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjI4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTExMDM2MzI4NV19
 -->
