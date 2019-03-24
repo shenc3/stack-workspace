@@ -87,7 +87,13 @@
 * 求一组动态数据集合的最大 Top K
 
 ### LeetCode练习题
-Invert Binary Tree（翻转二叉树） 英文版：https://leetcode.com/problems/invert-binary-tree/ 中文版：https://leetcode-cn.com/problems/invert-binary-tree/ Maximum Depth of Binary Tree（二叉树的最大深度） 英文版：https://leetcode.com/problems/maximum-depth-of-binary-tree/ 中文版：https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ Validate Binary Search Tree（验证二叉查找树） 英文版：https://leetcode.com/problems/validate-binary-search-tree/ 中文版：https://leetcode-cn.com/problems/validate-binary-search-tree/ Path Sum（路径总和） 英文版：https://leetcode.com/problems/path-sum/ 中文版：https://leetcode-cn.com/problems/path-sum/
+* [ ] [Invert Binary Tree（翻转二叉树）](https://leetcode-cn.com/problems/invert-binary-tree/)
+* [ ] [Maximum Depth of Binary Tree（二叉树的最大深度）](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* [ ] [Validate Binary Search Tree（验证二叉查找树） ](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+* [ ] [Path Sum（路径总和） ](https://leetcode-cn.com/problems/path-sum/)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzUwOTc1OF19
+eyJoaXN0b3J5IjpbLTg5MzAwMjk1MV19
 -->
