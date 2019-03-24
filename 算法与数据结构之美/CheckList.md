@@ -70,7 +70,9 @@
 * 实现朴素的字符串匹配算法
 
 ### LeetCode练习题
-* [ ]
+* [ ] [Reverse String（反转字符串）](https://leetcode-cn.com/problems/reverse-string/)
+* [ ] [Reverse Words in a String（翻转字符串里的单词）](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [ ] [String to Integer(atoi)（字符串转换zhe）](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODAyODE4MV19
+eyJoaXN0b3J5IjpbLTQyMTU5MDk0OF19
 -->
