@@ -26,8 +26,8 @@
 
 ## 栈&队列
 ### 栈
-* [ ] 用数组实现一个顺序栈
-* [ ] 用链表实现一个链式栈
+* [x] 用数组实现一个顺序栈
+* [x] 用链表实现一个链式栈
 * [ ] 编程模拟实现一个浏览器的前进、后退功能
 
 ### 队列
@@ -132,7 +132,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5ODQ1ODQ5LDEwMjExMzIwMSwxMTU5Mj
-Y1NTQ1LDIwMDgxNDk2ODEsLTE5NjA5ODcwNDcsMTU5NTE1NTM3
-NywtNDAwMTU5OTExXX0=
+eyJoaXN0b3J5IjpbMjA2NTk2MDcxMyw4MDk4NDU4NDksMTAyMT
+EzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwtMTk2MDk4NzA0
+NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
 -->
