@@ -42,10 +42,17 @@
 ### LeetCode联系题
 * [ ] [Valid Parentheses（有效括号）](https://leetcode-cn.com/problems/valid-parentheses/)
 * [ ] [Longest Valid Parentheses（最长有效的括号）](https://leetcode-cn.com/problems/longest-valid-parentheses/)
-* [ ] [Evaluate Reverse Polish Notatio]（逆波兰表达式求值）](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+* [ ] [Evaluate Reverse Polish Notatio（逆波兰表达式求值）](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 * [ ] [Design Circular Deque（设计一个双端队列）](https://leetcode-cn.com/problems/design-circular-deque/)
 * [ ] [Sliding Window Maximum（滑动窗口最大值）](https://leetcode-cn.com/problems/sliding-window-maximum/)
-* [ ] [Climbing Stairs（爬楼梯）]()
+* [ ] [Climbing Stairs（爬楼梯）](https://leetcode-cn.com/problems/climbing-stairs/)
+
+
+## 排序&查找
+### 排序
+* 实现归并排序、快速排序、插入排序、冒泡排序、选择排序
+* 变成实现O(logn)时间复杂度内找到一组数据的第K大元素
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM0NDQwNzNdfQ==
+eyJoaXN0b3J5IjpbLTEwNDU4ODA2MDBdfQ==
 -->
