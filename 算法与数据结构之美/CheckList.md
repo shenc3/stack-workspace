@@ -11,7 +11,7 @@
 * [x] 实现两个有序数组合并为一个有序数组
 
 ### 链表
-* [ ] 实现单链表、循环链表、双向链表，支持增删操作
+* [x] 实现单链表、循环链表、双向链表，支持增删操作
 * [x] 实现单链表反转
 * [ ] 实现两个有序的链表合并为一个有序链表
 * [ ] 实现求链表的中间结点
@@ -132,6 +132,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODE0OTY4MSwtMTk2MDk4NzA0NywxNT
-k1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
+eyJoaXN0b3J5IjpbMTE1OTI2NTU0NSwyMDA4MTQ5NjgxLC0xOT
+YwOTg3MDQ3LDE1OTUxNTUzNzcsLTQwMDE1OTkxMV19
 -->
