@@ -8,7 +8,7 @@
 ### 数组
 * [x] 实现一个支持动态扩容的数组
 * [x] 实现一个大小固定的有序数组，支持动态增删改操作
-* [ ] 实现两个有序数组合并为一个有序数组
+* [x] 实现两个有序数组合并为一个有序数组
 
 ### 链表
 * [ ] 实现单链表、循环链表、双向链表，支持增删操作
@@ -132,5 +132,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTE1NTM3NywtNDAwMTU5OTExXX0=
+eyJoaXN0b3J5IjpbLTE5NjA5ODcwNDcsMTU5NTE1NTM3NywtND
+AwMTU5OTExXX0=
 -->
