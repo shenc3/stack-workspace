@@ -25,7 +25,17 @@
 
 ## 栈&队列
 ### 栈
+* 用数组实现一个顺序栈
+* 用链表实现一个链式栈
+* 编程模拟实现一个浏览器的前进、后退功能
 
+### 队列
+* 用数组实现一个顺序队列
+* 用链表实现一个链式队列
+* 实现一个循环队列
+
+### 递归
+* 变成
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTUyNjUwNV19
+eyJoaXN0b3J5IjpbLTY4Mjg2MDU4MV19
 -->
