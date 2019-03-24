@@ -42,7 +42,10 @@
 ### LeetCode联系题
 * [ ] [Valid Parentheses（有效括号）](https://leetcode-cn.com/problems/valid-parentheses/)
 * [ ] [Longest Valid Parentheses（最长有效的括号）](https://leetcode-cn.com/problems/longest-valid-parentheses/)
-* [ ] [Evaluate Reverse Polish Notatio]（逆波兰表达式求值）
+* [ ] [Evaluate Reverse Polish Notatio]（逆波兰表达式求值）](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+* [ ] [Design Circular Deque（设计一个双端队列）](https://leetcode-cn.com/problems/design-circular-deque/)
+* [ ] [Sliding Window Maximum（滑动窗口最大值）](https://leetcode-cn.com/problems/sliding-window-maximum/)
+* [ ] [Climbing Stairs（爬楼梯）]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTg5Njc0MF19
+eyJoaXN0b3J5IjpbLTE2NTM0NDQwNzNdfQ==
 -->
