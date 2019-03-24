@@ -58,7 +58,19 @@
 * 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
 
 ### LeetCode练习题
-* [Sqrt(x)（x的平方根）]()
+* [ ] [Sqrt(x)（x的平方根）](https://leetcode-cn.com/problems/sqrtx/)
+
+## 散列表和字符串
+### 散列表
+* 实现一个基于链表法解决冲突问题的散列表
+* 实现一个LRU缓存淘汰算法
+
+### 字符串
+* 实现一个字符集，只包含a~z这26个英文字母的Trie树
+* 实现朴素的字符串匹配算法
+
+### LeetCode练习题
+* [ ]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODU0ODA5OV19
+eyJoaXN0b3J5IjpbLTIzODAyODE4MV19
 -->
