@@ -40,7 +40,9 @@
 * 编程实现一组数据集合的全排列
 
 ### LeetCode联系题
-
+* [ ] [Valid Parentheses（有效括号）](https://leetcode-cn.com/problems/valid-parentheses/)
+* [ ] [Longest Valid Parentheses（最长有效的括号）](https://leetcode-cn.com/problems/longest-valid-parentheses/)
+* [ ] [Evaluate Reverse Polish Notatio]（逆波兰表达式求值）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM3MTMxMDBdfQ==
+eyJoaXN0b3J5IjpbMTIzOTg5Njc0MF19
 -->
