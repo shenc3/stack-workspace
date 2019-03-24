@@ -113,7 +113,16 @@
 ### 分治
 * 利用分治算法求一组数据的逆序对个数
 
-### dongtai
+### 动态规划
+* 0-1背包问题
+* 最小路径和
+* 编程实现莱文斯坦最短编辑路径
+* 编程实现查找两个字符串的最长公共子序列
+* 编程实现一个数组序列的最长递增子序列
+
+### LeetCode练习题
+* [ ] [Regular Expression Matching（正则表达式）](https://leetcode-cn.com/problems/regular-expression-matching/)
+* [ ] [Min]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzc4MTkzMV19
+eyJoaXN0b3J5IjpbMTkxODYwOTEyOV19
 -->
