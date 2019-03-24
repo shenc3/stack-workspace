@@ -31,8 +31,8 @@
 * [ ] 编程模拟实现一个浏览器的前进、后退功能
 
 ### 队列
-* [ ] 用数组实现一个顺序队列
-* [ ] 用链表实现一个链式队列
+* [x] 用数组实现一个顺序队列
+* [x] 用链表实现一个链式队列
 * [ ] 实现一个循环队列
 
 ### 递归
@@ -132,7 +132,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTk2MDcxMyw4MDk4NDU4NDksMTAyMT
-EzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwtMTk2MDk4NzA0
-NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
+eyJoaXN0b3J5IjpbNjYwNjAyOTcsMjA2NTk2MDcxMyw4MDk4ND
+U4NDksMTAyMTEzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwt
+MTk2MDk4NzA0NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
 -->
