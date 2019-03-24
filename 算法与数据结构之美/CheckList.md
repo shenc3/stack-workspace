@@ -33,7 +33,7 @@
 ### 队列
 * [x] 用数组实现一个顺序队列
 * [x] 用链表实现一个链式队列
-* [ ] 实现一个循环队列
+* [x] 实现一个循环队列
 
 ### 递归
 * [ ] 编程实现斐波那契数列求值f(n) = f(n-1) + f(n-2)
@@ -132,7 +132,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwNjAyOTcsMjA2NTk2MDcxMyw4MDk4ND
-U4NDksMTAyMTEzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwt
-MTk2MDk4NzA0NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
+eyJoaXN0b3J5IjpbNzQ1ODgzODI1LDY2MDYwMjk3LDIwNjU5Nj
+A3MTMsODA5ODQ1ODQ5LDEwMjExMzIwMSwxMTU5MjY1NTQ1LDIw
+MDgxNDk2ODEsLTE5NjA5ODcwNDcsMTU5NTE1NTM3NywtNDAwMT
+U5OTExXX0=
 -->
