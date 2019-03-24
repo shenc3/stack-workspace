@@ -100,9 +100,20 @@
 * 实现Dijkstra算法、A*算法
 * 实现拓扑排序的Kahn算法、DFS算法
 
-##
+### LeetCode练习题
 * [ ] [Number of Islands（岛屿的个数）](https://leetcode-cn.com/problems/number-of-islands/description/)
 * [ ] [Valid Sudoku（有效的数独）](https://leetcode-cn.com/problems/valid-sudoku/)
+
+
+## 贪心、分治、回溯和动态规划
+### 回溯
+* 利用回溯算法求解八皇后问题
+* 利用回溯算法求解0-1背包问题
+
+### 分治
+* 利用分治算法求一组数据的逆序对个数
+
+### dongtai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3OTM2MzIwXX0=
+eyJoaXN0b3J5IjpbLTYxMzc4MTkzMV19
 -->
