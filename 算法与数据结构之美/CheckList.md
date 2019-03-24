@@ -72,7 +72,19 @@
 ### LeetCode练习题
 * [ ] [Reverse String（反转字符串）](https://leetcode-cn.com/problems/reverse-string/)
 * [ ] [Reverse Words in a String（翻转字符串里的单词）](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
-* [ ] [String to Integer(atoi)（字符串转换zhe）](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+* [ ] [String to Integer(atoi)（字符串转换整数（atoi））](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+
+## 二叉树和堆
+### 二叉树
+* 实现一个二叉查找树，并且支持插入、删除、查找操作
+* 实现查找二叉查找树中某个节点的后继、前驱节点
+* 实现二叉树前、中、后序以及按层遍历
+
+### 堆
+实现一个小顶堆、大顶堆、优先级队列
+实现堆排序
+利用优先级队列合并K个有序数组
+求一组动态数据集合的最大 Top K
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTU5MDk0OF19
+eyJoaXN0b3J5IjpbMTcyODE5MjkxM119
 -->
