@@ -122,7 +122,10 @@
 
 ### LeetCode练习题
 * [ ] [Regular Expression Matching（正则表达式）](https://leetcode-cn.com/problems/regular-expression-matching/)
-* [ ] [Min]
+* [ ] [Minimum Path Sum（最小路径和）](https://leetcode-cn.com/problems/minimum-path-sum/)
+* [ ] [Coin Change（零钱兑换）](https://leetcode-cn.com/problems/coin-change/)
+* [ ] [Best Time to Buy and Sell Stock（买卖股票的最佳时机）](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+* [ ] [Maximum Product Subarray（乘积最大子序列）](https://leetcode-cn.com/problems/maximum-product-subarray/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODYwOTEyOV19
+eyJoaXN0b3J5IjpbLTE2NTM4NTIwNThdfQ==
 -->
