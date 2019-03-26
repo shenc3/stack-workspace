@@ -41,7 +41,7 @@
 * [ ] 编程实现一组数据集合的全排列
 
 ### LeetCode联系题
-* [ ] [Valid Parentheses（有效括号）](https://leetcode-cn.com/problems/valid-parentheses/)
+* [x] [Valid Parentheses（有效括号）](https://leetcode-cn.com/problems/valid-parentheses/)
 * [ ] [Longest Valid Parentheses（最长有效的括号）](https://leetcode-cn.com/problems/longest-valid-parentheses/)
 * [ ] [Evaluate Reverse Polish Notatio（逆波兰表达式求值）](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 * [ ] [Design Circular Deque（设计一个双端队列）](https://leetcode-cn.com/problems/design-circular-deque/)
@@ -132,8 +132,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MTk4MzYxLDU4NDkyMTA4OSw3NDU4OD
-M4MjUsNjYwNjAyOTcsMjA2NTk2MDcxMyw4MDk4NDU4NDksMTAy
-MTEzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwtMTk2MDk4Nz
-A0NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
+eyJoaXN0b3J5IjpbNTMwNzY1NTY5LDkxODE5ODM2MSw1ODQ5Mj
+EwODksNzQ1ODgzODI1LDY2MDYwMjk3LDIwNjU5NjA3MTMsODA5
+ODQ1ODQ5LDEwMjExMzIwMSwxMTU5MjY1NTQ1LDIwMDgxNDk2OD
+EsLTE5NjA5ODcwNDcsMTU5NTE1NTM3NywtNDAwMTU5OTExXX0=
+
 -->
