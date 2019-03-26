@@ -55,7 +55,7 @@
 * [ ] 变成实现O(n)时间复杂度内找到一组数据的第K大元素
 
 ### 二分查找
-* [ ] 实现一个有序数组的二分查找算法
+* [x] 实现一个有序数组的二分查找算法
 * [ ] 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
 
 ### LeetCode练习题
@@ -132,7 +132,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTk4NzQ5Nyw1MzA3NjU1NjksOTE4MT
+eyJoaXN0b3J5IjpbMTczNjU1NDU3Nyw1MzA3NjU1NjksOTE4MT
 k4MzYxLDU4NDkyMTA4OSw3NDU4ODM4MjUsNjYwNjAyOTcsMjA2
 NTk2MDcxMyw4MDk4NDU4NDksMTAyMTEzMjAxLDExNTkyNjU1ND
 UsMjAwODE0OTY4MSwtMTk2MDk4NzA0NywxNTk1MTU1Mzc3LC00
