@@ -18,7 +18,7 @@
 
 ### LeetCode练习题
 * [ ] [Three Sum（求三数之和）](https://leetcode-cn.com/problems/3sum/)
-* [ ] [Majority Element（求众数）](https://leetcode-cn.com/problems/majority-element/)
+* [x] [Majority Element（求众数）](https://leetcode-cn.com/problems/majority-element/)
 * [ ] [Missing Positive（求缺失的第一个正数）](https://leetcode-cn.com/problems/first-missing-positive/)
 * [ ] [Linked List Cycle I（环形链表）](https://leetcode-cn.com/problems/linked-list-cycle/)
 * [ ] [Merge k Sorted Lists（合并k个排序链表）](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
@@ -132,8 +132,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0OTIxMDg5LDc0NTg4MzgyNSw2NjA2MD
-I5NywyMDY1OTYwNzEzLDgwOTg0NTg0OSwxMDIxMTMyMDEsMTE1
-OTI2NTU0NSwyMDA4MTQ5NjgxLC0xOTYwOTg3MDQ3LDE1OTUxNT
-UzNzcsLTQwMDE1OTkxMV19
+eyJoaXN0b3J5IjpbOTE4MTk4MzYxLDU4NDkyMTA4OSw3NDU4OD
+M4MjUsNjYwNjAyOTcsMjA2NTk2MDcxMyw4MDk4NDU4NDksMTAy
+MTEzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwtMTk2MDk4Nz
+A0NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
 -->
