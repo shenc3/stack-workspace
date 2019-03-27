@@ -52,11 +52,11 @@
 ## 排序&查找
 ### 排序
 * [x] 实现归并排序、快速排序、插入排序、冒泡排序、选择排序
-* [ ] 变成实现O(n)时间复杂度内找到一组数据的第K大元素
+* [x] 变成实现O(n)时间复杂度内找到一组数据的第K大元素
 
 ### 二分查找
 * [x] 实现一个有序数组的二分查找算法
-* [ ] 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
+* [x] 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
 
 ### LeetCode练习题
 * [ ] [Sqrt(x)（x的平方根）](https://leetcode-cn.com/problems/sqrtx/)
@@ -132,9 +132,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDY1Nzc1MywxNzM2NTU0NTc3LDUzMD
-c2NTU2OSw5MTgxOTgzNjEsNTg0OTIxMDg5LDc0NTg4MzgyNSw2
-NjA2MDI5NywyMDY1OTYwNzEzLDgwOTg0NTg0OSwxMDIxMTMyMD
-EsMTE1OTI2NTU0NSwyMDA4MTQ5NjgxLC0xOTYwOTg3MDQ3LDE1
-OTUxNTUzNzcsLTQwMDE1OTkxMV19
+eyJoaXN0b3J5IjpbMTQ1MTUyNzQ2MywtNzU0NjU3NzUzLDE3Mz
+Y1NTQ1NzcsNTMwNzY1NTY5LDkxODE5ODM2MSw1ODQ5MjEwODks
+NzQ1ODgzODI1LDY2MDYwMjk3LDIwNjU5NjA3MTMsODA5ODQ1OD
+Q5LDEwMjExMzIwMSwxMTU5MjY1NTQ1LDIwMDgxNDk2ODEsLTE5
+NjA5ODcwNDcsMTU5NTE1NTM3NywtNDAwMTU5OTExXX0=
 -->
