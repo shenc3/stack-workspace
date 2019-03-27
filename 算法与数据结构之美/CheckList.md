@@ -56,7 +56,7 @@
 
 ### 二分查找
 * [x] 实现一个有序数组的二分查找算法
-* [x] 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
+* [ ] 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
 
 ### LeetCode练习题
 * [ ] [Sqrt(x)（x的平方根）](https://leetcode-cn.com/problems/sqrtx/)
@@ -132,9 +132,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTUyNzQ2MywtNzU0NjU3NzUzLDE3Mz
-Y1NTQ1NzcsNTMwNzY1NTY5LDkxODE5ODM2MSw1ODQ5MjEwODks
-NzQ1ODgzODI1LDY2MDYwMjk3LDIwNjU5NjA3MTMsODA5ODQ1OD
-Q5LDEwMjExMzIwMSwxMTU5MjY1NTQ1LDIwMDgxNDk2ODEsLTE5
-NjA5ODcwNDcsMTU5NTE1NTM3NywtNDAwMTU5OTExXX0=
+eyJoaXN0b3J5IjpbODg5Mzk5NTAzLC03NTQ2NTc3NTMsMTczNj
+U1NDU3Nyw1MzA3NjU1NjksOTE4MTk4MzYxLDU4NDkyMTA4OSw3
+NDU4ODM4MjUsNjYwNjAyOTcsMjA2NTk2MDcxMyw4MDk4NDU4ND
+ksMTAyMTEzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwtMTk2
+MDk4NzA0NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
 -->
