@@ -20,7 +20,7 @@
 * [ ] [Three Sum（求三数之和）](https://leetcode-cn.com/problems/3sum/)
 * [x] [Majority Element（求众数）](https://leetcode-cn.com/problems/majority-element/)
 * [ ] [Missing Positive（求缺失的第一个正数）](https://leetcode-cn.com/problems/first-missing-positive/)
-* [ ] [Linked List Cycle I（环形链表）](https://leetcode-cn.com/problems/linked-list-cycle/)
+* [x] [Linked List Cycle I（环形链表）](https://leetcode-cn.com/problems/linked-list-cycle/)
 * [ ] [Merge k Sorted Lists（合并k个排序链表）](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 
@@ -132,9 +132,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5Mzk5NTAzLC03NTQ2NTc3NTMsMTczNj
-U1NDU3Nyw1MzA3NjU1NjksOTE4MTk4MzYxLDU4NDkyMTA4OSw3
-NDU4ODM4MjUsNjYwNjAyOTcsMjA2NTk2MDcxMyw4MDk4NDU4ND
-ksMTAyMTEzMjAxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwtMTk2
-MDk4NzA0NywxNTk1MTU1Mzc3LC00MDAxNTk5MTFdfQ==
+eyJoaXN0b3J5IjpbLTQ5MzY2MDM3Nyw4ODkzOTk1MDMsLTc1ND
+Y1Nzc1MywxNzM2NTU0NTc3LDUzMDc2NTU2OSw5MTgxOTgzNjEs
+NTg0OTIxMDg5LDc0NTg4MzgyNSw2NjA2MDI5NywyMDY1OTYwNz
+EzLDgwOTg0NTg0OSwxMDIxMTMyMDEsMTE1OTI2NTU0NSwyMDA4
+MTQ5NjgxLC0xOTYwOTg3MDQ3LDE1OTUxNTUzNzcsLTQwMDE1OT
+kxMV19
 -->
