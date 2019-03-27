@@ -40,7 +40,7 @@
 * [x] 编程实现求阶乘n!
 * [ ] 编程实现一组数据集合的全排列
 
-### LeetCode联系题
+### LeetCode练习题
 * [x] [Valid Parentheses（有效括号）](https://leetcode-cn.com/problems/valid-parentheses/)
 * [ ] [Longest Valid Parentheses（最长有效的括号）](https://leetcode-cn.com/problems/longest-valid-parentheses/)
 * [ ] [Evaluate Reverse Polish Notatio（逆波兰表达式求值）](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
@@ -132,9 +132,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjU1NDU3Nyw1MzA3NjU1NjksOTE4MT
-k4MzYxLDU4NDkyMTA4OSw3NDU4ODM4MjUsNjYwNjAyOTcsMjA2
-NTk2MDcxMyw4MDk4NDU4NDksMTAyMTEzMjAxLDExNTkyNjU1ND
-UsMjAwODE0OTY4MSwtMTk2MDk4NzA0NywxNTk1MTU1Mzc3LC00
-MDAxNTk5MTFdfQ==
+eyJoaXN0b3J5IjpbLTc1NDY1Nzc1MywxNzM2NTU0NTc3LDUzMD
+c2NTU2OSw5MTgxOTgzNjEsNTg0OTIxMDg5LDc0NTg4MzgyNSw2
+NjA2MDI5NywyMDY1OTYwNzEzLDgwOTg0NTg0OSwxMDIxMTMyMD
+EsMTE1OTI2NTU0NSwyMDA4MTQ5NjgxLC0xOTYwOTg3MDQ3LDE1
+OTUxNTUzNzcsLTQwMDE1OTkxMV19
 -->
