@@ -28,7 +28,7 @@
 ### 栈
 * [x] 用数组实现一个顺序栈
 * [x] 用链表实现一个链式栈
-* [ ] 编程模拟实现一个浏览器的前进、后退功能
+* [x] 编程模拟实现一个浏览器的前进、后退功能
 
 ### 队列
 * [x] 用数组实现一个顺序队列
@@ -59,7 +59,7 @@
 * [x] 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
 
 ### LeetCode练习题
-* [ ] [Sqrt(x)（x的平方根）](https://leetcode-cn.com/problems/sqrtx/)
+* [x] [Sqrt(x)（x的平方根）](https://leetcode-cn.com/problems/sqrtx/)
 
 ## 散列表和字符串
 ### 散列表
@@ -132,10 +132,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0Njc1ODMsLTQ5MzY2MDM3Nyw4ODkzOT
-k1MDMsLTc1NDY1Nzc1MywxNzM2NTU0NTc3LDUzMDc2NTU2OSw5
-MTgxOTgzNjEsNTg0OTIxMDg5LDc0NTg4MzgyNSw2NjA2MDI5Ny
-wyMDY1OTYwNzEzLDgwOTg0NTg0OSwxMDIxMTMyMDEsMTE1OTI2
-NTU0NSwyMDA4MTQ5NjgxLC0xOTYwOTg3MDQ3LDE1OTUxNTUzNz
-csLTQwMDE1OTkxMV19
+eyJoaXN0b3J5IjpbMTYyNjkxODk1OSw2ODQ2NzU4MywtNDkzNj
+YwMzc3LDg4OTM5OTUwMywtNzU0NjU3NzUzLDE3MzY1NTQ1Nzcs
+NTMwNzY1NTY5LDkxODE5ODM2MSw1ODQ5MjEwODksNzQ1ODgzOD
+I1LDY2MDYwMjk3LDIwNjU5NjA3MTMsODA5ODQ1ODQ5LDEwMjEx
+MzIwMSwxMTU5MjY1NTQ1LDIwMDgxNDk2ODEsLTE5NjA5ODcwND
+csMTU5NTE1NTM3NywtNDAwMTU5OTExXX0=
 -->
