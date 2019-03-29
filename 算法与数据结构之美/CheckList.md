@@ -72,7 +72,7 @@
 
 ### LeetCode练习题
 * [x] [Reverse String（反转字符串）](https://leetcode-cn.com/problems/reverse-string/)
-* [ ] [Reverse Words in a String（翻转字符串里的单词）](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [x] [Reverse Words in a String（翻转字符串里的单词）](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 * [ ] [String to Integer(atoi)（字符串转换整数（atoi））](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 
 ## 二叉树和堆
@@ -132,11 +132,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcwODI4MzMsLTYwMjE3MDE1MywxNj
-I2OTE4OTU5LDY4NDY3NTgzLC00OTM2NjAzNzcsODg5Mzk5NTAz
-LC03NTQ2NTc3NTMsMTczNjU1NDU3Nyw1MzA3NjU1NjksOTE4MT
-k4MzYxLDU4NDkyMTA4OSw3NDU4ODM4MjUsNjYwNjAyOTcsMjA2
-NTk2MDcxMyw4MDk4NDU4NDksMTAyMTEzMjAxLDExNTkyNjU1ND
-UsMjAwODE0OTY4MSwtMTk2MDk4NzA0NywxNTk1MTU1Mzc3XX0=
+eyJoaXN0b3J5IjpbLTE3ODMyNTA0NzMsLTEyMzcwODI4MzMsLT
+YwMjE3MDE1MywxNjI2OTE4OTU5LDY4NDY3NTgzLC00OTM2NjAz
+NzcsODg5Mzk5NTAzLC03NTQ2NTc3NTMsMTczNjU1NDU3Nyw1Mz
+A3NjU1NjksOTE4MTk4MzYxLDU4NDkyMTA4OSw3NDU4ODM4MjUs
+NjYwNjAyOTcsMjA2NTk2MDcxMyw4MDk4NDU4NDksMTAyMTEzMj
+AxLDExNTkyNjU1NDUsMjAwODE0OTY4MSwtMTk2MDk4NzA0N119
 
 -->
