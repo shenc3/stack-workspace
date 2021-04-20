@@ -27,6 +27,8 @@ You can delete the current file by clicking the **Remove** button in the file ex
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
+https://github.com/shenc3/stack-workspace
+https://gogoearth.net/
 
 # Synchronization
 
@@ -142,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTI4ODI4Nzk0MywtMzMyNDU1MzYzXX0=
 -->
